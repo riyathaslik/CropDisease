@@ -112,10 +112,10 @@ body {
   }
   
   #input-field:focus {
-    border-color: #333333;
+    border-color: #8b6868;
     outline: none;
   }
-  
+    
   .submit-button {
     background-color: transparent;
     border: none;
