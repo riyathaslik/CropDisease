@@ -1,1 +1,2 @@
-# CropDisease
+#Crop Disease Detection
+Focuses on developing an AI system that uses image processing techniques to analyze leaf images, identify diseases, and provide recommendations for remedies. By assisting farmers in identifying crop issues early, this system aims to improve crop yield, reduce financial losses, and promote sustainable farming practices!(https://github.com/user-attachments/assets/d243d5f8-bb37-4132-9f84-5a6fa30b5543)
